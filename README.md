@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @afrizuko
-- 👀 I’m interested in algorithm design, software engineering and a Gopher.
+- 👋 Hi, I’m @afrizuko, a gopher.
+- 👀 I’m interested in algorithm design, software engineering.
 - 🌱 I’m currently learning rustlang
 - 💞️ I’m looking to collaborate on golang/rust projects 
 - 📫 How to reach me: well afrizuko@gmail.com 
