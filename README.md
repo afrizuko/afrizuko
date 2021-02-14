@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afrizuko, a gopher.
+- 👋 Hi, I’m Olu, a gopher.
 - 👀 I’m interested in algorithm design, software engineering.
 - 🌱 I’m currently learning @rustlang
 - 💞️ I’m looking to collaborate on golang/rust projects and any algorithm challenge.
