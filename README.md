@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olupot.
 - 👀 I’m interested in algorithm design, software engineering.
-- 🌱 I’m currently learning @rustlang
+- 🌱 I’m currently experimenting with @rustlang
 - 💞️ I’m looking to collaborate on golang/rust projects and any algorithm challenge.
 - 📫 How to reach me: send me an email to afrizuko@gmail.com 
 
