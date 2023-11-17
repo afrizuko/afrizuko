@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <Olupot />.
+- 👋 Hi, I’m \<Olupot \/\>.
 - 👀 I’m interested in algorithm design, software architecting, implementation & maintenance.
 - 🌱 I’m currently experimenting with @rustlang
 - 👀 A Gopher by choice.
