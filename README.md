@@ -1,4 +1,4 @@
-- 👋 Hi, I’m \<Zuko \/\>.
+- 👋 Hi, I’m \<Olu \/\>.
 
 <!---
 afrizuko/afrizuko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
